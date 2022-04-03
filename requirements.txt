@@ -1,0 +1,4 @@
+yfinance==0.1.70
+pandas==0.24.2
+orion_ml==0.3.0
+numpy==1.22.3
