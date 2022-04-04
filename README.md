@@ -1,3 +1,4 @@
 # Stock market anomaly detection
-## using LSTM dynamic thresholding
-## using tadgan
+### LSTM with dynamic thresholding
+### TadGAN
+### Arima
